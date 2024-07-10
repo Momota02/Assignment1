@@ -157,8 +157,21 @@ header{
     font-weight: 400;
     text-align: center;
 }
+.Last-section {
+    width: 1140px;
+    height: 299px;
+    margin:0 auto;
+    margin-top: 10px;
+    display: flex;
+    justify-content:space-between;
+}
+.Card{
+    width: 350px;
+    height: 299px;
+    border-radius: 16px;
 
-
+background: rgba(255, 76, 30, 0.05);
+}
 
 
 
