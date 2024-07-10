@@ -1,0 +1,46 @@
+header{
+    width: 1440px;
+    height: 652px;
+    border: 2px solid red;
+    background-image: url(assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.Header-content{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.Header-content h1{
+    color: rgb(13, 19, 33);
+    font-size: 48px;
+    font-weight: 800;
+}
+.Header-content p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 24px;
+    margin-bottom: 32px;
+}
+
+.Header-content button{
+    border-radius: 8px;
+
+    background: rgb(13, 19, 33);
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 21px 24px;
+}
+
+
+
