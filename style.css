@@ -66,6 +66,73 @@ header{
     font-weight: 400;
     text-align: center;
 }
+.Second-section{
+    width: 946px;
+    
+    border: 2px solid green;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.Container{
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid orange;
+    padding: 10px;
+    margin: 6px;
+}
+.Container h4{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+
+}
+.Container p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+}
+.Container button{
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    padding: 12px 20px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Third-section{
+    width: 852px;
+    
+    margin: 0 auto ;
+    border: 2px solid black; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+.Third-section h3{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+
+}
+.Third-section p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+.Third-section iframe{
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    margin-top: 50px;    
+}
 
 
 
